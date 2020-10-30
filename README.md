@@ -47,7 +47,9 @@ public static int gcd(int a, int b) {
 ```
 # Problems
 https://www.lintcode.com/problem/greatest-common-divisor/description
+
 https://leetcode.com/problems/greatest-common-divisor-of-strings/
+
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
 
 # Reference 
